@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on **Software engineer**
 
-- 🌱 I’m currently learning **SpringBoot and AWS**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 👯 I’m looking to collaborate with **anyone**
 
